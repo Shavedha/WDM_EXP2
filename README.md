@@ -1,5 +1,5 @@
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
-### DATE: 
+### DATE: 17.02.2024
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
@@ -42,6 +42,14 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+### Buying Table
+<img width="311" alt="ex2-1" src="https://github.com/Shavedha/WDM_EXP2/assets/93427376/b920c787-8bdb-47b9-b606-015423d6a42c">
+
+### Banking Table
+<img width="338" alt="ex2-3" src="https://github.com/Shavedha/WDM_EXP2/assets/93427376/47a93d9d-6bd3-4241-ac08-19ddd5ab9385">
+
+### Employee Table
+<img width="212" alt="ex2-5" src="https://github.com/Shavedha/WDM_EXP2/assets/93427376/8576ccf3-fbf3-4d69-9701-3cad12eed0cd">
 
 
 ### Procedure for Association Rules:
@@ -53,5 +61,16 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+### Buying Table
+<img width="960" alt="ex2-2" src="https://github.com/Shavedha/WDM_EXP2/assets/93427376/1feb6973-31b9-42cc-aa2b-3e6fd0aec6cf">
 
-### RESULT: 
+### Banking Table
+<img width="960" alt="ex2-4" src="https://github.com/Shavedha/WDM_EXP2/assets/93427376/9655bd44-4c02-49d2-bf6e-a528789f554d">
+
+### Employee Table
+<img width="960" alt="ex2-6" src="https://github.com/Shavedha/WDM_EXP2/assets/93427376/3e5a250b-ce62-4e16-a0f6-cf3e365f8b44">
+
+
+
+### RESULT:
+Thus association rules have been visualized for various datasets successfully.
